@@ -14,6 +14,7 @@ while True:
 """
 potrzebmy jest root na linuxie bo tylko na linusie to dziala
 
+niedokonczone!!!
 
 """
 
